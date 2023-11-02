@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  petclinic_chart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-11-02T14:57:20.935236983+03:00"
+    description: Petclinic Microservices
+    digest: e39e42ca57946668f8ceed3a21a51c7bf80e1b9ed6b772889537bf51dad56591
+    name: petclinic_chart
+    type: application
+    urls:
+    - petclinic_chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-02T14:57:20.93462413+03:00"
