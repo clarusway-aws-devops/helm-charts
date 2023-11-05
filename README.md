@@ -8,5 +8,5 @@ helm repo update
 ## Install petclinic microservices
 
 ```bash
-helm install petclinic  clarusway-community/petclinic_chart
+helm install petclinic clarusway-community/petclinic_chart
 ```
