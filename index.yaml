@@ -3,9 +3,9 @@ entries:
   petclinic_chart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-11-06T10:25:23.695856956+03:00"
+    created: "2023-11-06T10:27:14.496444879+03:00"
     description: Petclinic Microservices
-    digest: 9950a27ec4f95f3113b6e9e69a05668f8adbaaa431c9f903e3650006dd100efc
+    digest: 59fc71f8ac629858b87fa719c8fc4ecc51b42e68fe0b7b7c09865bfc3d578406
     name: petclinic_chart
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-11-06T10:25:23.695427507+03:00"
+    created: "2023-11-06T10:27:14.493683758+03:00"
     description: Petclinic Microservices
     digest: 77b8e7d0657a70ecf3433b98d692139b38614c896a8597932be4df97206e348d
     name: petclinic_chart
@@ -21,4 +21,4 @@ entries:
     urls:
     - petclinic_chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-06T10:25:23.694522515+03:00"
+generated: "2023-11-06T10:27:14.493122115+03:00"
